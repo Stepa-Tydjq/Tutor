@@ -8,3 +8,6 @@ Tutor AI-репетитор в Telegram
 Где взять ключи?
 - BOT_TOKEN: создать бота у @BotFather
 - GEMINI_API_KEY: получить на makersuite.google.com/app/apikey
+
+
+git clone https://github.com/Stepa-Tydjq/Tutor.git
